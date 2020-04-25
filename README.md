@@ -1,3 +1,5 @@
+# CS 595 Project: Reddit Regression
+-----------------------------------
 ### *Authors*
 - Justin Duhaime
 - Kaitlyn Leta
