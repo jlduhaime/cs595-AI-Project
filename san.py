@@ -1,4 +1,8 @@
 """
+Authors: Justin Duhaime, Kaityln Leta
+Title: Reddit  Regression
+
+Description:
 This file sanitizes the raw reddit data from 
 https://files.pushshift.io/reddit/
 """
